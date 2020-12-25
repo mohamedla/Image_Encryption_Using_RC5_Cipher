@@ -12,5 +12,7 @@ To run this app you must have Pyhton  on your device (I have Python 3.9.1)
         pip insall numpy==1.19.3
         
 Now you ready to run the app
+
   just run from images.py file using your terminall or any editor you prefer that suports Python
+  
 Enjoy ;)
