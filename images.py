@@ -54,7 +54,7 @@ class Window(Frame):
         if rounds != '' :
             rounds = int(rounds)
         else:
-            rounds = 16
+            rounds = 12
         return rounds
     def open_img(self): 
         # Select the Imagename from a folder 
