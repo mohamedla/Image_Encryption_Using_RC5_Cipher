@@ -1,4 +1,4 @@
-# Encryption_Image_Using_RC5_Cipher
+# Image_Encryption_Using_RC5_Cipher
 Encryption_Image_Using_RC5_Cipher is am GUI application made in python tkinter for encrypt and decrypt images as blocks using 2 modes ECB CBC
 
 To run this app you must have Pyhton  on your device (I use Python 3.9.1 when work on it)
